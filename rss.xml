@@ -1,3 +1,186 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ravin's tiny blog.]]></title><description><![CDATA[Sharing things that flow through my mind.]]></description><link>https://ravinhwg.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Oct 2019 17:42:11 GMT</lastBuildDate><item><title><![CDATA[I started blogging today.]]></title><description><![CDATA[This is my first post on my new tiny blog! How exciting!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ravin's tiny blog.]]></title><description><![CDATA[Sharing things that flow through my mind.]]></description><link>https://ravinhwg.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Oct 2019 16:54:47 GMT</lastBuildDate><item><title><![CDATA[How to order a PickMe(Sri Lanka) or an Uber for a friend using fake GPS coordinates.]]></title><description><![CDATA[My aunt once wanted me to order a cab using PickMe (which is a popular ride hailing app in Sri Lanka). Piece of cake right? but the problem…]]></description><link>https://ravinhwg.github.io/how-to-order-pickme(Sri_Lanka)-or-uber-for-a-friend-using-fakegps/</link><guid isPermaLink="false">https://ravinhwg.github.io/how-to-order-pickme(Sri_Lanka)-or-uber-for-a-friend-using-fakegps/</guid><pubDate>Sat, 12 Oct 2019 20:12:03 GMT</pubDate><content:encoded>&lt;p&gt;My aunt once wanted me to order a cab using PickMe (which is a popular ride hailing app in Sri Lanka). Piece of cake right? but the problem? &lt;strong&gt;We were 20km apart.&lt;/strong&gt; So I tried to change the pickup loaction in PickMe to her place,heck looks like people who made pickme made it very hard to change the pickup location to more than lets say 3km from your actual location. The pin kept coming to my actul location after I tap the drop location.I think thats how the app is designed.To make sure that you enter your actual location to save that poor driver from all that extra driving. &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;So Lets get started.&lt;/h2&gt;
+&lt;h2&gt;1.Go to Google Play Store and search for “Fake GPS”&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/28773308c7b03f9b5a8e97a662fd52c2/6da3e/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.77777777777777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAIAAAAGkY33AAAACXBIWXMAAAsSAAALEgHS3X78AAAFJElEQVRIx6VVSW8cVRD2hQNCEHHKBSE4ceGChMQJ8QOQACViuXBBgkQRQuwIsWRzSBw7DgkJAQKOY5sQSBQM0QQ73u2Mp8eezJJ4ZtqzeJbunt73fbpnmuruxIwTCEF8enqqrlffq3716lV1aZpG0zSGYSB4G9FsNqvVKkmS6XSa53mO4+r1ej6fBwHHcUEQulqtVrvdtm3bdd1byKHecRxd1y3LaoawbaDYwadPFiUJ7Ly7AJjRNOO4Lmzqk+GbF0THcYOlcL4TeF4I3Afkjk3vynknfDKcihdkVeXL18+5lmxaTZIiOZ5XVS0IEsYwjBQAgkTRNAhhgHyyoWtf9n00dm77/NC9bG1a0dzZqenIxUgqlZ6dnZuYnFpaTiz4uAIjErmEIHHTNG+QTUM6fOD1q7FRuvy7yKCO562KJG/p/mH+9bcNQ//4/ZeuZRDfutVyWi6hCIpleh3R+yswHaHxyfD/mcQfokAHy63/FrDbd4WbhMvrdNIK8DdkSE90FZVlOTSCORqNLsaQzh0hK2OxWKdGVVWfzHF8pVplWQ4GpCFoKIrK5vKKooTWMLMsWygWIZ0gPUK3qqb5ZEgWy7ZNy9J03Xaabtv3btqWYZrAcyH5PU9SZLxBKpoKJ4LHAAOuuutug9P+h4ApttlQJUqTNw4Jk/m6zDVUMdTQN5dIVeIN7Qb5g+mzmw5te/T4ew8fe6dzPDW4++nh7se+/fChr95eVz5y/N3NR958ZuQLrWn55B3jQ137Xn3w8I77D23zR9+2UHj85CdPntq1+ehb9/W9AZ8PBMpN/dvv6XntiYHPVNsM0tMxGJ3jdEEwBNEUaE1gDV8mVYZUGMHgaV1gdQEMeDCAJVPgDPnGkzyTrG85HXtlBHluMPbCIBLJUyfj1WcHoi8OL20dim85jcyWuSMLpS2D0a1DyPODsZeH49caSjKx5JPnCo0TCyunEPS7xdyx+ZVoiRhH618vZI8tZI7OpfunMks15lK2/j2y+kO8+E3Ut8kRrG2aUEnguvm2KTTlhsITtkC4loHza46yWq6ztWpNonHbUD1L8WzZs2EWPY1yTVVWgiTJ4FiZTJYxfDFHlddQSeZnC/YsWl1GsXo1R+EJSaUMRVAF2lAlXWI0nrQtXZJkILfiZffXtBrPFQu5lECmVQVbKHhnEx6SKWRyJZFC4Y5ZoWyINLeWVtmaohKqwRu6H+32cqU5HPfmrmFX0lhprajLOEbrKCbXcKaEiUSDkCTR1BSFxYRKmsRzifo8o1QVRfc9L1ecEcSbyRH5UjKdu25KNV5USIajOYnmhAYjKqohc5Qlc6pQp4nVcmNSVDFN8s/cTlasCyl3ogSlnK1iV7HGdXhastZU9Kas2rLe1HTLa9klNDszPbG8GEUqv5HaqucG6XlxEtl54nLf2czY1NjI6PGJ+Fg+WxyfmBmbmJmcnBsdn0oWCpnM/Oj5H3/56czFCxd6h3clC0up5bRPvjw59ennu7v39+zbv797z97EUiISiezcuasnwJ7de6BXnTv/c/fevf39h3p7ew/2HCgWigMDA13e/4BPhppexzBoQjhOQIkXBJEgCMMwoCS5AcICti5DMRFFCQSfXK3WkqlUNputVKorK1kURZF4HLrfeg26tfU6DhSsDdXz9oYYIuzBodtQWC+jPlmWlVodw4kGSdEMw2IYtG6C5TiSokAHetDSDBsKJEn5q+ueRVEEVg3DgRBW33WfN9H2Nvbezo7hA3rl7WX9zvgTrMyE8x8oT3EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;#39;Install Fake GPS&amp;#39;&quot;
+        title=&quot;&amp;#39;Install Fake GPS&amp;#39;&quot;
+        src=&quot;/static/28773308c7b03f9b5a8e97a662fd52c2/b9e4f/1.png&quot;
+        srcset=&quot;/static/28773308c7b03f9b5a8e97a662fd52c2/cf440/1.png 148w,
+/static/28773308c7b03f9b5a8e97a662fd52c2/d2d38/1.png 295w,
+/static/28773308c7b03f9b5a8e97a662fd52c2/b9e4f/1.png 590w,
+/static/28773308c7b03f9b5a8e97a662fd52c2/6da3e/1.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;2.Launch Fake GPS location app&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/63e36349a799c0eb6acd8c7086709add/6da3e/2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.77777777777777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2&quot;
+        title=&quot;2&quot;
+        src=&quot;/static/63e36349a799c0eb6acd8c7086709add/b9e4f/2.png&quot;
+        srcset=&quot;/static/63e36349a799c0eb6acd8c7086709add/cf440/2.png 148w,
+/static/63e36349a799c0eb6acd8c7086709add/d2d38/2.png 295w,
+/static/63e36349a799c0eb6acd8c7086709add/b9e4f/2.png 590w,
+/static/63e36349a799c0eb6acd8c7086709add/6da3e/2.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;3.Go to settings app and tap on “Mock location app”&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1e2de660c3042f3434669197436eca6a/6da3e/3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.77777777777777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAIAAAAGkY33AAAACXBIWXMAAAsSAAALEgHS3X78AAADTElEQVRIx32V+VLiQBDG8/4PsI9jWaWWVYpHrYAict9o5MpFkl33N/OFIQpL/zF0Zqanv/76wBsMBm9vb+PxeD6fb60kVtI0DYKg2Wz2+/3b29uplXa7/fT0NJvNsGL1oigKw5DbeZ5/leSvlSzLeG65XG42m9DKer3mcmDF49gP4jhO7u/vz8/Pb25uLi8vLy4uKpXK9fX12dnZaDTiLYBkkjzfpimeUD12o8Sgnc2mw+EQPMBD+fj4QOn1eriV/9RKlqV/M6mpB4YwCMDDY3+sSLE+cpBzSSzEELFNllE8WBEmWBOPG7ACZwbCMYl3EkbxV5pUputf1XkemwOP3dTGoDB2ceXyr00purLNcj9MwigCi8fB6+trtVolB/iHNvS7u7uXl5fHx8fn5+dOp8Mmn+zXajXW+WzKM8aYhxeLxWQyIdWQRLbf39/R4YxwlE9O2WdFH08motAQBo0ihnyAQul1eZby44j7Bdvskg+APTw8gA2l0Wj8toKC83q9Dn5qCwWf4lUlaGB/fn4Cj2IAGBECmJKcWEFnn09WMGMDUt/3OTJFYirM9wlSgZl8fhclmUJAV7XsPbs8SVFgilCs7Atz9+nEeCYSeIZzFFAQxWq1QtHzJ8TDA6wosSKMZLZaraurK94Ci6vqI8Z4psvw5lsBglayzSY3Thm7PGtVtOoQF/+hWVEk2JADMgTVvZ1AvjKknJWdowupSRXG9C3Rcq9hhWJAZ4fC5pN3y8awuLBijDkA2NdJcfVYzlxRnvihNrvdLk6gGsCCQAORCLqNnR8xC4uBzRkgSQ8GXNU85RNLqpphRlzlSbRnW4XOKKQwGJHUIHxQjIGdTax8cuF4qvSjieFWjY5yeEcTXnQVwKgNOCRt5IyVOinfLj+hbtnDXlsBthSeE9qwJISAJStVoGFSGMvMrbrq3ipGrx2V2HNasH1Igw6EU/9e/61tx7baXYNaWNg57OFvRcIPSaKHIExsQRsxo6uANXqcfz71v/fNs4RdhwIp72DGW2ziQN1qjDnYWHEk/fB2qp/VGOVB7VoF/fAV92kao9vp1u3o4Q+23WoxogfDQb1WpyUZvafYphC7w1G92RoxAMbjXr/fG47gjVbhP+y08T8IzvfbipG7QgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;3&quot;
+        title=&quot;3&quot;
+        src=&quot;/static/1e2de660c3042f3434669197436eca6a/b9e4f/3.png&quot;
+        srcset=&quot;/static/1e2de660c3042f3434669197436eca6a/cf440/3.png 148w,
+/static/1e2de660c3042f3434669197436eca6a/d2d38/3.png 295w,
+/static/1e2de660c3042f3434669197436eca6a/b9e4f/3.png 590w,
+/static/1e2de660c3042f3434669197436eca6a/6da3e/3.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;4.Select “fake GPS” from the menu&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/add5862e1365e9533223a4221dc9f289/6da3e/4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.77777777777777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAIAAAAGkY33AAAACXBIWXMAAAsSAAALEgHS3X78AAADl0lEQVRIx41VyU4bQRCdP4nyH/kCBAGP8Rgb7+MFsAQiQgixY7jwASjilguLhWwWJyYSAgmJQ7APtoAbVkhkHGOimMX7OnnTbU/GSzDvUKqq6VdVXd1TzUxOTs7Ozk5MTIyNjfE8b7Va+TocDsfMzMzU1NTq6uoHgunpaZfLNT4+DhYkMzQ0NDw8bLfboWC1nUBSnE4n/JAjIyNwUh1+UKAzyKA3mS0WC8uyPT09CoXiPQHM3t7erq4urVYrLwcrJZ3BBwsvftPr9YMEOp0O0mAwwAOmyWSy2WzWOqBJFkOCiZltjagtJYqUCprJwg+aaskZfFar1QMDA7SktpAKtlt5Vm9+p9LbeNHL0A43ZWsqocG02YyW2s4ZtA6ZVSpVf38/8qNP0CE5jlMqlZDYNhS6hgLNoEHFso1GI5qE9kCBRKtozxALEh6Y1El1tLDWMFqVg4CecEdgWS0zNGTo7u7GIff19cmPGiZ06sRGoGALtATUKJLNZvPo6Oji4uIcAS4gbitu5VwdMCHn5+cXFhaWl5dXVlZwQ3Gd0TMGndjc3BQEoVQqCTJUq1W5XqlUqgTlchmei4sLtEMk7+zswD46Ojo+Pr66ugoGgycnJ6enp4FAAJ7Ly0t5IESBhLNG3tragn1P8PDwABmNRp+enpLJZCKRgCKvqJm8sbEheWmU29vb6+vrWCwmtKB9ZmwGW4OSy+UeHx8RAjnlBbcnb29vE29ZeAXaZy4WC9lUrFoplRGGoFgs0g53Jh/6Pp1/debTvxL3yXA4FIlEQqEQ6m86tmay2+2G7XGv/bn/CSWdztzd3cXjcUh0G53HEfyXTC9JLp+XMtDLQIH+ye9Pe3L5+2E14oOSSqWen5/ByWQyhULh5YZxm26PUPidWXuT+/i2koz8iMYD599wAc/Ozm5ubtA2RMnVQcOFw2FC5jiPxytmDriEoEuo5OmZg5PP57PZbJoAfOggN2TG/+1aWvJ9/uI98O/6Dr27+16PCK/Xu1/HgQx7e3t+v399fR1EcRhoNBr8tyyrYInE0CEmq2wBRhUkfm8o4i8pzm3ZHJePdWl0ygcghoc0wxlrC+g8fQ0Yulo+n6mJCQPZmYxpaCCgo9NIQIep/KGR6sJ6hG7OLCWUqjATSB66mCaokSlHjn+PU8ey5Q+yBDqiW8tuIOOzVqPhOBV9HzQEUPCs4K2B0ok8qOPUGvFd1ukw1mGicbjzNNwL5L8L5MbAR7g/OgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;4&quot;
+        title=&quot;4&quot;
+        src=&quot;/static/add5862e1365e9533223a4221dc9f289/b9e4f/4.png&quot;
+        srcset=&quot;/static/add5862e1365e9533223a4221dc9f289/cf440/4.png 148w,
+/static/add5862e1365e9533223a4221dc9f289/d2d38/4.png 295w,
+/static/add5862e1365e9533223a4221dc9f289/b9e4f/4.png 590w,
+/static/add5862e1365e9533223a4221dc9f289/6da3e/4.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;5.Go back to the app select location and press the play button&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 376px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0ee1282ca5716971d44be39da98f283e/11d0a/5.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.9255319148936%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAACQBgCdASoUACQAPtFepU8oJSMiJWzJABoJaACdISGJogELyt2aQSy9eckD6nTPksOOPu9g3Lm/mUbSftYAAP1Hvg6OaGgAvM6NOpFfSC9ULdDmLSVR09Lbh6iYbVtperBJZgkfZzNuqGN6ZkCBeW75bi4OqQRoJ2pgwDnAHDoQBqESYQ2zCL61VOCr/WyuevaD1eQWQikrVOPLhSqTQQeeNZboEaqAepeJ4a/PkqhfIKwMK7quIj5plSWIhBZ0J1t/PU/0rDXUq59o7yPBDRbWXlNH5796GN+kFCwCn4Q9XyyNYwAAAA==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;5&quot;
+        title=&quot;5&quot;
+        src=&quot;/static/0ee1282ca5716971d44be39da98f283e/11d0a/5.webp&quot;
+        srcset=&quot;/static/0ee1282ca5716971d44be39da98f283e/cc182/5.webp 148w,
+/static/0ee1282ca5716971d44be39da98f283e/f7e40/5.webp 295w,
+/static/0ee1282ca5716971d44be39da98f283e/11d0a/5.webp 376w&quot;
+        sizes=&quot;(max-width: 376px) 100vw, 376px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Now you can trick either PickMe or Uber to use the given mock loaction as the actual location.&lt;/p&gt;
+&lt;h2&gt;6.Pull down to make sure that you are using fake gps to mock location.&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0afbc930138c26347c98d5f7ae74f162/6da3e/5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.77777777777777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAIAAAAGkY33AAAACXBIWXMAAAsSAAALEgHS3X78AAAEm0lEQVRIx31V2U7rSBD1MwKENAIhBAixg8TyB/Mp82l3npHmcR7nAS7bvZeBkGFLnD2xE9vx7vbS7YQ53U1y2WZKpqleqqvr1KmKQiklhARBEIZhmqZRFMVxjBFTKIwx+lZyxnDUtu08zxVsm4ZRLpVUVfV9v16vm6aJsaqWDcPI88E74+FwqGva/d0/w+dnBfOEsoiyXDiBc36E5W7KMspXwihK0hQ+kgT/oVA/ZX6WY0/JKbUT2iZswBiJY8dxsByk9GufeQnFLvyTKMIjPc9DLM85Kwf0h8OwxT3TLKMZd4jLcDETCs1eFPiL04zxU1zEDo35f6oghla73Ww0YjbQg6QXpqMv6YaJGSWqm5wacUxIREgahixNAaTvughEwWUJlxjxpFmGP/FxSUZjKLREzkcCQ0ViWKvV7u7uJFoIzzBMTCuVysPDQ6FQqFarWEQurq6usP4oBIe5cZrRr7f122LRtvsIc5izQtW8/LvY1Tp4EkAiIuF4dqlUKpfLuAuLVACWMZanHLJ0zAgglAjC4NBgMBhTRTw+wYPligLsPN/2A6SBhLg8TtLsRWIOExlH+FpeYh6wYd0sdcxOWzfaetfzAxm5zAo8SOVTUYCErnXv7wGPWlFVLOGduRCpfKT3T2PObdNsNpvtdhvY6kLaQrDY6XQ45/L8U/+KqKRQVpXnuoHve56LogEZkRssArb0rcRCeKpwa6tr9Gyn7/q2F3Qtx4sIEIEZ7gN6756N6VDIS8yNVlutVhuNJka8vtHkgqqEPQIfPxgKDmPx5OTk8vISOePG3S4Au0f2wRvYPD49QJHxI1VjnzCGQ8uyfv/y5ejoCJFyhvmubxqW7wWu41qm5dguTgDFVqsFtOionkQxM9h8//7t5uYGYYMkzI4sm1h2aHrEcYntkj5KEedknt7RA3c9CxEkyQea3aroT7VeuWFWa0a5rD1EJBI4fU6P8S08Zq2j3RaKpcdyVUXnqhSuC0jyf+X2PUnQaDi+rSaCRBkCM+D0P8R6SxISCY5wkWwBGMkHGZMkQusQM0FP2zVtp2fZhmVrhml7/mt6Q8askP1uCJxyACkLQ9fRCfBaPBvFjoqXj0fRS/3p6QlEwHOQgyGjf9btmp+gjSqi6Rg4hxrACKqgJcESNpj2ej3wHGnHyLs3b1Ls1z9Kv/3Veh7mnCSIFNuItm9ZhtFzXbff74MkWESo+UhkhtBHVJuo/RDdgHfPvuu5fuB4vhuECDiICDgwZsjrdillwPDxbHPA9F6v3myiPPBVaw3UBjzLRvVpwtIReyRgGhpqsVgEMKgIYIMfPZkz2e5efig+cEZ41nWBbQ1oy2IEPBiBHBSZKjnKyDH+rGeZzPyVYIpDKFWgrWka2AoHuBfhyOxgi5MEe9CQJ02IdI4pMnx8fHx2dnZ6eorx4uIC0+vra5zB78b5+TmepszNzR0cHGDc3d09PDxcXFxcXV1dWlpaWVnZ2NjY29vb39+Hsr6+vra2trCwMDs7u7y8DBMcUyYnJ2E5PT39ixAcwsbW1tbm5ubOzg707e1tKBixMjMzMzU1NTExMT8/D+N/AVOxiutPylTyAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;5&quot;
+        title=&quot;5&quot;
+        src=&quot;/static/0afbc930138c26347c98d5f7ae74f162/b9e4f/5.png&quot;
+        srcset=&quot;/static/0afbc930138c26347c98d5f7ae74f162/cf440/5.png 148w,
+/static/0afbc930138c26347c98d5f7ae74f162/d2d38/5.png 295w,
+/static/0afbc930138c26347c98d5f7ae74f162/b9e4f/5.png 590w,
+/static/0afbc930138c26347c98d5f7ae74f162/6da3e/5.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;strong&gt;Bingo&lt;/strong&gt; now Uber thinks that you are actually from the location given in the Fake GPS app. Now use your favourite ride hailing app and get going xD&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I started blogging today.]]></title><description><![CDATA[This is my first post on my new tiny blog! How exciting!
 I’m sure I’ll write a lot more interesting things in the future.]]></description><link>https://ravinhwg.github.io/hello-world/</link><guid isPermaLink="false">https://ravinhwg.github.io/hello-world/</guid><pubDate>Wed, 09 Oct 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new tiny blog! How exciting!
 I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;</content:encoded></item></channel></rss>
